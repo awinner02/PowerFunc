@@ -4,4 +4,4 @@ It uses recursion to find the composite number of a large number. Basically refo
 
 Below is a code snippet of the Power function:
 
-<img style="width: 50%; display: block; margin-left: auto; margin-right: auto;" src="/images/myPowFunc.png" alt="Code snippet of Power function"/>
+<img style="width: 80%; display: block; margin-left: auto; margin-right: auto;" src="/images/myPowFunc.png" alt="Code snippet of Power function"/>
