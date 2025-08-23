@@ -1,6 +1,7 @@
 /*
 Name: Alexis Winn
 Title: Power function
+Description: Finding pseudoprimes
 */
 
 #include <iostream>
